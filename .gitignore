@@ -1,5 +1,4 @@
-.txt
-.css
-.html
-.png
-
+*.css
+*.html
+*.png
+*.txt
